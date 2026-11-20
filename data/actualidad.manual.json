@@ -1,0 +1,19 @@
+{
+  "_ayuda": "Ajustes manuales de Actualidad. 'items': publicaciones añadidas a mano (mismo formato que actualidad.json). 'overrides': cambia campos de una publicación por su id. 'hide': ids que no se muestran. Tras editar, ejecuta: node tools/actualidad/update.mjs",
+  "items": [],
+  "overrides": {
+    "blog-4258": {
+      "title": "Ayudas TIC 2022 al comercio electrónico · Junta de Extremadura",
+      "text": "Hasta un 80 % para redes sociales, imagen digital, tiendas online y posicionamiento. Convocatoria ya cerrada: te avisamos de la siguiente."
+    },
+    "blog-4158": {
+      "title": "El Congreso Extremeño de Marketing Digital bate récords y se hace internacional",
+      "text": "Más de 6.300 inscritos de España, Portugal y Latinoamérica en la 4.ª edición del CEMD, organizado por AV junto a Borja de Lope."
+    },
+    "blog-4065": {
+      "title": "Somos beneficiarios de las ayudas TIC Cámaras",
+      "text": "Cofinanciado por el FEDER para renovar nuestra web y reforzar la presencia online. «Una manera de hacer Europa»."
+    }
+  },
+  "hide": []
+}
